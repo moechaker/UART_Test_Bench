@@ -1,6 +1,6 @@
 # UART_Test_Bench
 
-This repository contains a SystemVerilog test bench and related files to verify the functionality of a UART (Universal Asynchronous Receiver-Transmitter). The test bench is designed to rigorously test the UART's behavior under different data rates, transmission modes, and error conditions to ensure its correct operation.
+This repository contains a SystemVerilog test bench and related files to verify the functionality of a UART (Universal Asynchronous Receiver-Transmitter).
 
 
 ## Introduction
