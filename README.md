@@ -15,7 +15,7 @@ The UART Test Bench project focuses on verifying the proper functioning of a UAR
 
 ## Usage
 
-To run the FIFO design verification test bench, follow these steps:
+To run the design verification test bench, follow these steps:
 
 1. Visit this link: https://www.edaplayground.com/x/J3Ph
 2. Top right, hit login and create an account
